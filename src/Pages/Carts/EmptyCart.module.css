@@ -1,0 +1,21 @@
+.empty-cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.empty-cart-container p {
+  margin-top: 2em;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.emptyLink {
+  color: #cf0808;
+  border: 1px solid #390505;
+  padding: .5em;
+  border-radius: 5px;
+  cursor: pointer;
+}

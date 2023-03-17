@@ -1,0 +1,163 @@
+[
+  {
+    "cakeName": "berry",
+    "price": 15,
+    "image": "./img/cake-1.jpeg",
+    "id": "cake-1",
+    "cart-image": "./img-cart/cake-1.jpeg"
+  },
+  {
+    "cakeName": "vanila",
+    "price": 50,
+    "image": "./img/cake-2.jpeg",
+    "id": "cake-2",
+    "cart-image": "./img-cart/cake-2.jpeg"
+  },
+  {
+    "cakeName": "chocolate",
+    "price": 20,
+    "image": "./img/cake-3.jpeg",
+    "id": "cake-3",
+    "cart-image": "./img-cart/cake-3.jpeg"
+  },
+  {
+    "cakeName": "brown",
+    "price": 30,
+    "image": "./img/cake-4.jpeg",
+    "id": "cake-4",
+    "cart-image": "./img-cart/cake-4.jpeg"
+  },
+  {
+    "cakeName": "strawberry",
+    "price": 30,
+    "image": "./img/cake-5.jpeg",
+    "id": "cake-5",
+    "cart-image": "./img-cart/cake-5.jpeg"
+  },
+  {
+    "cakeName": "sweet",
+    "price": 50,
+    "image": "./img/sweets-1.jpeg",
+    "id": "sweets-1",
+    "cart-image": "./img-cart/sweets-1.jpeg"
+  },
+  {
+    "cakeName": "jerry",
+    "price": 15,
+    "image": "./img/sweets-2.jpeg",
+    "id": "sweets-2",
+    "cart-image": "./img-cart/sweets-2.jpeg"
+  },
+  {
+    "cakeName": "choco",
+    "price": 20,
+    "image": "./img/sweets-3.jpeg",
+    "id": "sweets-3",
+    "cart-image": "./img-cart/sweets-3.jpeg"
+  },
+  {
+    "cakeName": "brown",
+    "price": 30,
+    "image": "./img/sweets-4.jpeg",
+    "id": "sweets-4",
+    "cart-image": "./img-cart/sweets-4.jpeg"
+  },
+  {
+    "cakeName": "yellow",
+    "price": 30,
+    "image": "./img/sweets-5.jpeg",
+    "id": "sweets-5",
+    "cart-image": "./img-cart/sweets-5.jpeg"
+  },
+  {
+    "cakeName": "white",
+    "price": 30,
+    "image": "./img/sweets-1.jpeg",
+    "id": "sweets-6",
+    "cart-image": "./img-cart/sweets-1.jpeg"
+  },
+  {
+    "cakeName": "sweet",
+    "price": 50,
+    "image": "./img/cupcake-1.jpeg",
+    "id": "cupcake-1",
+    "cart-image": "./img-cart/cupcake-1.jpeg"
+  },
+  {
+    "cakeName": "jerry",
+    "price": 15,
+    "image": "./img/cupcake-2.jpeg",
+    "id": "cupcake-2",
+    "cart-image": "./img-cart/cupcake-2.jpeg"
+  },
+  {
+    "cakeName": "choco",
+    "price": 20,
+    "image": "./img/cupcake-3.jpeg",
+    "id": "cupcake-3",
+    "cart-image": "./img-cart/cupcake-3.jpeg"
+  },
+  {
+    "cakeName": "brown",
+    "price": 30,
+    "image": "./img/cupcake-4.jpeg",
+    "id": "cupcake-4",
+    "cart-image": "./img-cart/cupcake-4.jpeg"
+  },
+  {
+    "cakeName": "yellow",
+    "price": 30,
+    "image": "./img/cupcake-5.jpeg",
+    "id": "cupcake-5",
+    "cart-image": "./img-cart/cupcake-5.jpeg"
+  },
+  {
+    "cakeName": "white",
+    "price": 30,
+    "image": "./img/cupcake-1.jpeg",
+    "id": "cupcake-6",
+    "cart-image": "./img-cart/cupcake-1.jpeg"
+  },
+  {
+    "cakeName": "sweet",
+    "price": 50,
+    "image": "./img/doughnut-1.jpeg",
+    "id": "doughnuts-1",
+    "cart-image": "./img-cart/doughnut-1.jpeg"
+  },
+  {
+    "cakeName": "gerry",
+    "price": 15,
+    "image": "./img/doughnut-2.jpeg",
+    "id": "doughnuts-2",
+    "cart-image": "./img-cart/doughnut-2.jpeg"
+  },
+  {
+    "cakeName": "chocolate",
+    "price": 20,
+    "image": "./img/doughnut-3.jpeg",
+    "id": "doughnuts-3",
+    "cart-image": "./img-cart/doughnut-3.jpeg"
+  },
+  {
+    "cakeName": "brown",
+    "price": 30,
+    "image": "./img/doughnut-4.jpeg",
+    "id": "doughnuts-4",
+    "cart-image": "./img-cart/doughnut-4.jpeg"
+  },
+  {
+    "cakeName": "orange",
+    "price": 30,
+    "image": "./img/doughnut-5.jpeg",
+    "id": "doughnuts-5",
+    "cart-image": "./img-cart/doughnut-5.jpeg"
+  },
+  {
+    "cakeName": "strawberry",
+    "price": 30,
+    "image": "./img/doughnut-1.jpeg",
+    "id": "doughnuts-6",
+    "cart-image": "./img-cart/doughnut-1.jpeg"
+  }
+]

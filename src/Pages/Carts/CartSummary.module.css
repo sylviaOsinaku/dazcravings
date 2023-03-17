@@ -1,0 +1,24 @@
+.amount-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.summary-container {
+  width: 100%;
+  height: 50%;
+  border: 2px solid #870a0a;
+  padding: .5em;
+  border-radius: 7px;
+  font-weight: 600;
+  margin-top: 1em;
+
+
+}
+
+.summary-container button {
+  /* transform: translateX(50%); */
+  margin: auto 1em;
+  padding: .3em 3em;
+}

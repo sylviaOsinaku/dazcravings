@@ -1,0 +1,15 @@
+.meals-img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.p {
+  margin: 0;
+  font-weight: 700;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0em 1.2em;
+}

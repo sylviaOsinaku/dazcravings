@@ -1,0 +1,27 @@
+.complete-cart-container {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  border: 2px solid #870a0a;
+  border-radius: 5px;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+.complete-cart-container small {
+  border: 2px solid #870a0a;
+  padding: .25rem;
+  border-radius: 5px;
+}
+
+.cart-image {
+  width: 100%;
+  object-fit: contain;
+}
+
+.complete-cart-container button {
+  padding: .2em .8em;
+  margin-left: .5em;
+  border: 2px solid #870a0a;
+  border-radius: 5px;
+}
