@@ -37,8 +37,8 @@ const router = createBrowserRouter(
       ],
       errorElement: <ErrorPage />,
     },
-  ]
-  // { basename: '/commerce' }
+  ],
+  { basename: '/dazcravings' }
 );
 function App() {
   return (
