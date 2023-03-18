@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dazcravings/static/css/main.ffb3b9d7.css",
-    "main.js": "/dazcravings/static/js/main.80ee08a2.js",
+    "main.css": "/dazcravings/static/css/main.a4e0286f.css",
+    "main.js": "/dazcravings/static/js/main.e8c65cb0.js",
     "static/css/88.2be853f5.chunk.css": "/dazcravings/static/css/88.2be853f5.chunk.css",
     "static/js/88.aae27afd.chunk.js": "/dazcravings/static/js/88.aae27afd.chunk.js",
-    "static/css/787.7db9bc7f.chunk.css": "/dazcravings/static/css/787.7db9bc7f.chunk.css",
+    "static/css/787.f4ad2345.chunk.css": "/dazcravings/static/css/787.f4ad2345.chunk.css",
     "static/js/787.5792d3e7.chunk.js": "/dazcravings/static/js/787.5792d3e7.chunk.js",
     "static/media/sad-face-emoji.gif": "/dazcravings/static/media/sad-face-emoji.317d911d5dc07787f7ef.gif",
     "static/media/cake-1.jpeg": "/dazcravings/static/media/cake-1.7663c60811f9dd35971d.jpeg",
@@ -18,15 +18,15 @@
     "static/media/icon-cart.svg": "/dazcravings/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
     "static/media/icon-minus.svg": "/dazcravings/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
     "static/media/icon-hamburger.svg": "/dazcravings/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
-    "main.ffb3b9d7.css.map": "/dazcravings/static/css/main.ffb3b9d7.css.map",
-    "main.80ee08a2.js.map": "/dazcravings/static/js/main.80ee08a2.js.map",
+    "main.a4e0286f.css.map": "/dazcravings/static/css/main.a4e0286f.css.map",
+    "main.e8c65cb0.js.map": "/dazcravings/static/js/main.e8c65cb0.js.map",
     "88.2be853f5.chunk.css.map": "/dazcravings/static/css/88.2be853f5.chunk.css.map",
     "88.aae27afd.chunk.js.map": "/dazcravings/static/js/88.aae27afd.chunk.js.map",
-    "787.7db9bc7f.chunk.css.map": "/dazcravings/static/css/787.7db9bc7f.chunk.css.map",
+    "787.f4ad2345.chunk.css.map": "/dazcravings/static/css/787.f4ad2345.chunk.css.map",
     "787.5792d3e7.chunk.js.map": "/dazcravings/static/js/787.5792d3e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffb3b9d7.css",
-    "static/js/main.80ee08a2.js"
+    "static/css/main.a4e0286f.css",
+    "static/js/main.e8c65cb0.js"
   ]
 }
